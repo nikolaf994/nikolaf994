@@ -1,5 +1,4 @@
-(https://available.dev/api/badge/nikolaf994)](https://available.dev/nikolaf994)
-
+[![Available for Work](https://available.dev/api/badge/nikolaf994)](https://available.dev/nikolaf994)
 # Hi there 👋, I'm Nikola Filipovski
 
 I’m a **Full-Stack Web Developer based in Germany**, available worldwide. I love building modern, responsive, and user-friendly web applications.
